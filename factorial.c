@@ -10,6 +10,6 @@
     }
 
 int main(){
-    printf("the factorial of 0 is = %d",factorial(0));
+    printf("the factorial is = %d",factorial(n));
     return 0;
 }
